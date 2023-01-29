@@ -87,6 +87,6 @@
         android:layout_marginStart="20dp"
         android:textSize="15sp"
         android:textColor="@android:color/holo_red_dark"
-        android:text="ACIMA DE 40.0 E 39.9   -->         OBESIDADE GRAVE"/>
+        android:text="ACIMA DE 40.0               -->         OBESIDADE GRAVE"/>
 
 </LinearLayout>
